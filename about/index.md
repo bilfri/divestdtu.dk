@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About Divest DTU
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Divest DTU
