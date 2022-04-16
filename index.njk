@@ -4,8 +4,15 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<h1>Stop funding fossil fuels!</h1>
+
+<p>
+To the students, staff and the rest of the world DTU pretends to fight the climate crisis. But with their investments, they fund the exact same companies that are causing the crisis.
+We want an end to the destruction of nature and communities world wide, and a university we can be proud of. These investments must stop now.
+</p>
+
 {% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h1>Recent campaign news</h1>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
