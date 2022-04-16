@@ -1,0 +1,90 @@
+/* Le Murmure */
+
+@font-face {
+    font-family: 'Le Murmure';
+    src: url('_includes/LeMurmureWoff2/LeMurmure-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Fivo Sans Modern */
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-MediumOblique.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-Heavy.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-HeavyOblique.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-ExtBlkObliq.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-BoldOblique.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-ExtraBlack.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fivo Sans Modern';
+    src: url('FivoSansModern-Oblique.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
