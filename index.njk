@@ -12,12 +12,12 @@ We want an end to the destruction of nature and communities world wide, and a un
 </p>
 
 {% set maxPosts = collections.posts.length | min(3) %}
-<h2>Recent campaign news</h1>
+<h2><i>Recent campaign news:</i></h2>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>All posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
 
 <p>Smaller news items are only posted on our <a href="{https://facebook.com/DivestDTU/">facebook page</a>.</p>

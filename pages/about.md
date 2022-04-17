@@ -1,11 +1,12 @@
 ---
-layout: layouts/post.njk
+layout: layouts/home.njk
 title: About Divest DTU
 templateClass: tmpl-home
 eleventyNavigation:
   key: About Divest DTU
   order: 3
 ---
+# About Divest DTU
 
 Divest DTU is a group of students (staff is welcome too) that will convince the board of DTU to stop funding fossil fuels.
 
@@ -17,7 +18,7 @@ Business-as-usual is now causing droughts, forest fires, deadly heat, disease sp
 
 DTUs investments in fossil fuels are a part of exactly this business-as-usual. Obviously then, part of the drastic response required in this emergency, must be for DTU to divest from fossil fuels and fund solutions instead.
 
-[**Join our campaign**](/tags/event/)
+\> \> [**Join our campaign**](/tags/event/) < <
 
 ## About this website
 
