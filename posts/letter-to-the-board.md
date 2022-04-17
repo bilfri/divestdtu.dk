@@ -1,0 +1,11 @@
+---
+title: Letter to the board
+description: Divest DTU send a proposal to the board to divest from fossil fuels
+date: 2022-03-08
+tags: Background
+layout: layouts/post.njk
+---
+
+Our formal letter to the board with the request to divest from fossil fuels.
+
+[Link](/img/letter-to-the-board-v1.pdf)
