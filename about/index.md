@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: About Divest DTU
-templateClass: tmpl-post
+templateClass: tmpl-home
 eleventyNavigation:
   key: About Divest DTU
   order: 3

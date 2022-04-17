@@ -1,9 +1,9 @@
 /* Colors */
 :root {
-  --darkblue: #262261;
-  --orange: #f9a94a;
-  --pink: #f47fb0;
-  --white: #fff;
+  --darkblue: #1a1746;
+  --orange: #ffb255;
+  --pink: #fc96c0;
+  --white: rgba(255, 255, 255, 0.945);
   --black: #000;
 }
 
