@@ -52,6 +52,12 @@ header:after {
   display: table;
   clear: both;
 }
+footer {
+  padding: 1rem;
+  font-family: 'Le Murmure';
+  opacity: 0.5;
+}
+
 table {
   margin: 1em 0;
 }
@@ -88,7 +94,7 @@ code {
   word-break: break-all;
 }
 
-h1 {
+h1, h2, h3 {
   color: var(--pink)
 }
 
