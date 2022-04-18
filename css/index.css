@@ -16,7 +16,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Fivo Sans Modern';
+  font-family: 'DD Fivo Sans Modern';
   color: var(--white);
   background-color: var(--darkblue);
 }
@@ -54,7 +54,7 @@ header:after {
 }
 footer {
   padding: 1rem;
-  font-family: 'Le Murmure';
+  font-family: 'DD Le Murmure';
   opacity: 0.5;
 }
 
@@ -101,7 +101,7 @@ h1, h2, h3 {
 /* Header */
 .home {
   font-weight: 900;
-  font-family: 'Fivo Sans Modern';
+  font-family: 'DD Fivo Sans Modern';
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
@@ -113,7 +113,7 @@ h1, h2, h3 {
 
 /* Nav */
 .nav {
-  font-family: 'Fivo Sans Modern', sans-serif;
+  font-family: 'DD Fivo Sans Modern', sans-serif;
   font-weight: lighter;
   padding: 0;
   list-style: none;
@@ -219,7 +219,7 @@ a[href].post-tag:focus {
 
 /* Direct Links / Markdown Headers */
 .direct-link {
-  font-family: 'Fivo Sans Modern', sans-serif;
+  font-family: 'DD Fivo Sans Modern', sans-serif;
   text-decoration: none;
   font-style: normal;
   margin-left: .1em;
