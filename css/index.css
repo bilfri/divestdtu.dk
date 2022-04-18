@@ -101,10 +101,11 @@ h1, h2, h3 {
 /* Header */
 .home {
   font-weight: 900;
+  font-family: 'Fivo Sans Modern';
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  font-size: 1rem; /* 16px /16 */
 }
 .home :link:not(:hover) {
   text-decoration: none;
