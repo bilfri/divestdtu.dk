@@ -1,11 +1,13 @@
 ---
 layout: layouts/home.njk
 title: About Divest DTU
+description: Divest DTU is a group of students (staff is welcome too) that will convince the board of DTU to stop funding fossil fuels.
 templateClass: tmpl-home
 eleventyNavigation:
   key: About Divest DTU
   order: 3
 ---
+
 # About Divest DTU
 
 Divest DTU is a group of students (staff is welcome too) that will convince the board of DTU to stop funding fossil fuels.
