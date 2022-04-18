@@ -210,7 +210,7 @@ a[href].post-tag:focus {
 /* Warning */
 .warning {
   background-color: var(--orange);
-  color: (--black);
+  color: var(--black);
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
 .warning ol:only-child {
