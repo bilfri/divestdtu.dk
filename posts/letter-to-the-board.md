@@ -8,4 +8,4 @@ layout: layouts/post.njk
 
 Our formal letter to the board with the request to divest from fossil fuels.
 
-[Link](/img/letter-to-the-board-v1.pdf)
+[Link](/docs/letter-to-the-board-v1.pdf)
