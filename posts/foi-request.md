@@ -129,6 +129,6 @@ Laura Junker Clausen
 
 ## Conclusion
 
-We found that at leasts the fonds SEBinvest AKL Japan Hybrid I (DK0060812741) and SEBinvest AKL US High Yield Bond (DK0060812907) included fossil fuel stocks. We also found that DTU has no policy to exclude all fossil fuel companies from their portofolio so we decided to launch the campaign.
+We found that at leasts the fonds SEBinvest AKL Japan Hybrid I (DK0060812741) and SEBinvest AKL US High Yield Bond (DK0060812907) included fossil fuel companies. We also found that DTU has no policy to exclude all fossil fuel companies from their portofolio so we decided to launch the campaign.
 
 small side note: we did not include bonds in our request, of which DTU also owns a considerable amount. This would have been informative as well, but we knew enough from the request as it was to move on with the campaign.
