@@ -8,7 +8,9 @@ layout: layouts/post.njk
 
 DTU is funding fossil fuels!
 
-## We call for protest 27-04-2022 at 12:00-13:00
+## Update: because of recent response from the board
+## the protest is changed to an info meeting
+## We call for info meeting 27-04-2022 at 12:00-13:00
 ## in front of 101 main entrance.
 
 To the students, staff and the rest of the world; DTU pretends to fight the climate crisis, but with their investments, they fund the exact same companies that are causing the crisis.
